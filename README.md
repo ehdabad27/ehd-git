@@ -13,3 +13,7 @@ This is an edit from my Desktop using the GIT Desktop App
 -----------------------------------
 
 This is my 3rd Edit in GIT Desktop
+
+------------------------------------
+
+This is my 4th edit
