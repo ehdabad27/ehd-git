@@ -16,3 +16,9 @@ BRANCH & MERGE
 	git checkout - switch to another branch and check it out into your working directory
 	git merge [branch] - merge the speciﬁed branch’s history into the current one
 	git log - show all commits in the current branch’s history
+
+#Uploading to ehd-new-branch
+SETUP & INIT 
+(Conﬁguring user information, initializing and cloning repositories)
+	git init - initialize an existing directory as a Git repository
+	git clone [url] - retrieve an entire repository from a hosted location via URL
